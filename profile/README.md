@@ -1,22 +1,19 @@
-# Kami Bahala
+# KamiBahala
 
-Welcome to the Kami Bahala project.
+Welcome to the KamiBahala project.
 
 ## Governance
 
-This project is governed by...
-[Add governance model details here, e.g., how decisions are made, roles (maintainers, contributors), and code of conduct enforcement.]
+We are committed to providing a welcoming and inspiring community for all. Our governance and behavioral standards are outlined in our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Contribution Guides
 
-We welcome contributions! Please follow these guidelines:
+We welcome contributions from the community! We have specific guidelines to ensure a smooth workflow and high-quality codebase.
 
-1.  **Fork and Clone**: Fork the repository and clone it locally.
-2.  **Branching**: Create a feature branch for your changes `git checkout -b feature/your-feature`.
-3.  **Coding Standards**: Adhere to the existing coding style and conventions.
-4.  **Pull Requests**: Submit a PR with a clear description of the changes.
-
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for more detailed instructions.
+Please read our [Contributing Guide](../CONTRIBUTING.md) for detailed instructions on:
+*   Workflow & Collaboration
+*   Engineering Standards (Karma Commits, Signed Commits)
+*   Pull Request Protocol
 
 ## Release Management
 
