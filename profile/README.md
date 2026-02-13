@@ -1,6 +1,6 @@
-# KamiBahala
+# Gotchu
 
-Welcome to the KamiBahala project.
+Gotchu is a Filipino-made app designed to make everyday life easier by connecting you to reliable services anytime, anywhere. From errands to essential tasks, Gotchu is here to help!
 
 ## Governance
 
@@ -11,19 +11,21 @@ We are committed to providing a welcoming and inspiring community for all. Our g
 We welcome contributions from the community! We have specific guidelines to ensure a smooth workflow and high-quality codebase.
 
 Please read our [Contributing Guide](../CONTRIBUTING.md) for detailed instructions on:
-*   Workflow & Collaboration
-*   Engineering Standards (Karma Commits, Signed Commits)
-*   Pull Request Protocol
+
+- Workflow & Collaboration
+- Engineering Standards (Karma Commits, Signed Commits)
+- Pull Request Protocol
 
 ## Release Management
 
 Our release process is as follows:
 
--   **Versioning**: We follow [Semantic Versioning](https://semver.org/).
--   **Release Cycle**: [Describe release cycle, e.g., monthly, continuous, etc.]
--   **Changelog**: All changes are documented in the [CHANGELOG.md](CHANGELOG.md).
+- **Versioning**: We follow [Semantic Versioning](https://semver.org/).
+- **Release Cycle**: [Describe release cycle, e.g., monthly, continuous, etc.]
+- **Changelog**: All changes are documented in the [CHANGELOG.md](CHANGELOG.md).
 
 ### Creating a Release
+
 1.  Draft release notes.
 2.  Tag the version.
 3.  Deploy to [environment/registry].
